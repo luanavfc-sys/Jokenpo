@@ -2,6 +2,8 @@
 
 Um jogo de **Pedra, Papel e Tesoura** desenvolvido para praticar lógica de programação utilizando **HTML, CSS e JavaScript**.
 
+
+<img src="./image.jpeg">
 ---
 
 ## 🚀 Tecnologias utilizadas
